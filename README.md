@@ -1,6 +1,8 @@
 # HomeTown-Torshov🙌
 
 This is the README file for the website "HomeTown-Torshov". This website showcases information about the town of Torshov.
+![hometown](https://github.com/YaraElBassaal/HomeTown-Torshov/assets/124288726/2db94042-abca-462c-a9c4-80e8e3254770)
+
 
 ## Table of Contents✔
 
