@@ -1,0 +1,145 @@
+
+
+body {
+    width: 720px;
+    margin: 0 auto;
+    font-family: Arial;
+}
+.section1 {
+    background-image: url("../images/torshov-image.png");
+    background-size: cover;
+    height: 343px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap:10px;
+      
+}
+
+#title1 {
+    width: 225px;
+    padding:10px 5px;
+    border-radius: 10px;
+    background-color: #1D3557;
+    color: #FFFFFF;
+    margin:0;
+
+}
+#description1 {
+    color: #FFFFFF;
+    background-color: #457B9D;
+    border-radius: 10px;
+    width: 450px;
+    margin:0;
+    padding:10px 5px;
+    
+
+}
+.section2 {
+    height: 378px;
+    background-color: #F1FAEE;
+    text-align: center;
+    
+}
+.section2 h3 {
+    padding-top: 39px;
+    margin: 0;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    color: #1D3557;
+}
+.section2 h4 {
+    font-weight: 700;
+    height: 32px;
+    margin-top: 23px;
+    margin-bottom: 0;
+}
+.section2 p {
+    font-weight: 400;
+    height: 55px;
+    margin-bottom: 0;
+    color: #1D3557;
+}
+.section2 h4{
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    color: #1D3557;
+
+}
+
+.sec2Imges {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    gap:10px;
+}
+.section2 img {
+    width: 100px;
+    height: 99.34px;
+    border-radius: 50px;
+
+}
+.image1 ,.image2 ,.image3{
+    width: 198px;
+    height: 226px;
+
+}
+.section3 {
+    background-color: #FFFFFF;
+    width: 720px;
+    height: 394px;
+    color: #1D3557;
+    
+}
+.myCard {
+    background-color: #A8DADC;
+    width: 400px;
+    height: 294px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px auto ;
+    border-bottom: 6px solid #1D3557;
+    gap: 20px;
+    padding: 15px;
+    text-align: center;
+    
+}
+.myCard image {
+    width: 180px;
+    height: 248.67px;
+    border-radius: 10px;
+
+}
+.myCard p {
+    width: 189px;
+    height: 71px;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 18px;
+    margin: 0;
+
+}
+.myCard h4 {
+    width: 207px;
+    height: 32px;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 25px;
+    box-sizing: border-box;
+    padding-right: 15px;
+
+}
+.myCard h5 {
+    width: 189px;
+    height: 18px;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 25px;
+}
